@@ -1,9 +1,8 @@
 Inegrantes del grupo
 
+Nombres de los Inegrantes:
 Samer Franco
 Andrea Álvarez
 Daniel Cabrera 
 
-Tema del proyecto: Control de versiones y uso de Git, GitHub
 
-Objetivo del prouecto: Conocer los comandos de Git y aprender a subir y compartir proyectos en GitHub
